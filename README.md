@@ -1,4 +1,4 @@
-#Duplicate Identification in SQL
+# Duplicate Identification in SQL
 
 This repository contains a simple example of a database with duplicate entries in the `clientes` table.  
 The code demonstrates how to:
@@ -12,6 +12,7 @@ The code demonstrates how to:
 This exercise was inspired by the book *SQL for Data Analysis – Advanced Techniques and Insights* (page 53).  
 
 It is a practical example to help reinforce SQL skills and understand how to handle duplicate data efficiently.
+
 
 /////////////////---------------------------------------------------//////////////////////////////////////////
 
