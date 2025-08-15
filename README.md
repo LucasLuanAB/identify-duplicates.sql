@@ -1,4 +1,4 @@
-Duplicate Identification in SQL
+#Duplicate Identification in SQL
 
 This repository contains a simple example of a database with duplicate entries in the `clientes` table.  
 The code demonstrates how to:
